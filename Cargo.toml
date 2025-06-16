@@ -1,0 +1,10 @@
+[package]
+name = "dependabot-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4.4"
+sea-orm = "1.1.7"
+serde = "1.0"
+tokio = "1.44.2"
